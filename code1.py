@@ -1,0 +1,5 @@
+print("1.Mix 500g of flour, 10g yeast and 300ml water in a bowl.")
+print("2.knead the dough for 10 minutes")
+print("3.add 3g of salt")
+print("4.leave the rice for 2 hours.")
+print("5.Bake at 200 degrees C for 30 minutes.")
